@@ -8,3 +8,6 @@ Small calculations with some terminal inputs.
 Working with vector variables.
 ### challenge04
 Money conversion challenge.
+
+
+Overall challenges are not over yet
