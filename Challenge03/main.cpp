@@ -16,7 +16,6 @@ int main() {
     cout << vector1.at(1) << endl;
     cout << "vector1 contains " << vector1.size() << " elements" << endl;
     
-    
     vector2.push_back(100);
     vector2.push_back(200);
 

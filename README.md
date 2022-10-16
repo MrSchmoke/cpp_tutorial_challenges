@@ -6,3 +6,5 @@ Simple cin, cout statements with included variables.
 Small calculations with some terminal inputs.
 ### challenge03
 Working with vector variables.
+### challenge04
+Money conversion challenge.
