@@ -9,5 +9,8 @@ Working with vector variables.
 ### challenge04
 Money conversion challenge.
 
+### exercises
+Some small exercises during the course
 
-Overall challenges are not over yet
+
+##Further challenges are added
