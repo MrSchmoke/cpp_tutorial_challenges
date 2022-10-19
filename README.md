@@ -8,9 +8,11 @@ Small calculations with some terminal inputs.
 Working with vector variables.
 ### challenge04
 Money conversion challenge.
+### challenge05
+Perform list operation challenge where the user have some choices to change the list and visualise them.
 
 ### exercises
 Some small exercises during the course
 
 
-##Further challenges are added
+## Further challenges are added

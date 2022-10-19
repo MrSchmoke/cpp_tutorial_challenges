@@ -5,8 +5,10 @@ using namespace std;
 
 int main()
 {
-    //vector<int> vec = {1, 2, 3}; //11
-     vector<int> vec = {2, 4, 6, 8}; //140
+    //nested loops
+
+    //vector<int> vec = {1, 2, 3}; //result: 11
+     vector<int> vec = {2, 4, 6, 8}; //result: 140
 
     int result {}, add {};
 
