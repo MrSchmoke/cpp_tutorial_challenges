@@ -17,7 +17,6 @@ int main() {
         cout << "L - Display the largest number" << endl;
         cout << "Q - Quit\n" << endl;
         cout << "------------------------------" << endl;
-
         
         cin >> letter;
         
@@ -36,7 +35,6 @@ int main() {
         
             while(add_num != list.at(index) && index < list.size()) {
                 index++;
-            
                 if(list.at(list.size()-1) == list.at(index) && add_num != list.at(index)) {
                     list.push_back(add_num);      
                     cout  << add_num << " added to the list!" << endl;
@@ -60,7 +58,6 @@ int main() {
             }
             else
                 cout << "Unable to calculate the mean - no data" << endl;
-
         }
         else if(letter == 'S' || letter =='s')
         {
@@ -70,8 +67,7 @@ int main() {
                 for(auto l : list) {
                     if(s == 0 || s >= l)
                         s = l;
-                }
-                
+                }               
                 cout << "The smallest number is: " << s << endl;
             }
             else
@@ -86,19 +82,15 @@ int main() {
                     if(large == 0 || large <= l)
                         large = l;
                 }
-                
                 cout << "The larges number is: " << large << endl;
             }
             else
                 cout << "Unable to determine the largest number - list is empty!" << endl;
         }
         else if(letter == 'Q' || letter =='q')
-        {
             cout << "\nGoodbye!" << endl;
-        }
         else
             cout << "Unknown selection, pleasy try again!" << endl;
-
     } while(letter != 'Q' && letter != 'q');
 
     return 0;
