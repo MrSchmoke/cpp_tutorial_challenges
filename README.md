@@ -10,6 +10,8 @@ Working with vector variables.
 Money conversion challenge.
 ### challenge05
 Perform list operation challenge where the user have some choices to change the list and visualise them.
+### challenge06
+Write a ciphering program subsituting letters
 
 ### exercises
 Some small exercises during the course
