@@ -13,6 +13,9 @@ Perform list operation challenge where the user have some choices to change the 
 ### challenge06
 Write a ciphering program subsituting letters
 
+### timed exercises
+1. create a letter pyramid
+
 ### exercises
 Some small exercises during the course
 
