@@ -65,5 +65,4 @@ int main()
         journal_entry_2.swap(journal_entry_1);
 
     cout << journal_entry_1 << endl;
-
 }
