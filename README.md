@@ -1,19 +1,14 @@
 # cpp_tutorial_challenges
 
-### challenge01
-Simple cin, cout statements with included variables.
-### challenge02
-Small calculations with some terminal inputs.
-### challenge03
-Working with vector variables.
-### challenge04
-Money conversion challenge.
-### challenge05
-Perform list operation challenge where the user have some choices to change the list and visualise them.
-### challenge06
-Write a ciphering program subsituting letters
+### challenges
+1. Simple cin, cout statements with included variables.
+2. Small calculations with some terminal inputs.
+3. Working with vector variables.
+4. Money conversion challenge.
+5. Perform list operation challenge where the user have some choices to change the list and visualise them.
+6. Write a ciphering program subsituting letters
 
-### timed exercises
+### timed challenge
 1. create a letter pyramid
 
 ### exercises
