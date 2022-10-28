@@ -7,6 +7,7 @@
 4. Money conversion challenge.
 5. Perform list operation challenge where the user have some choices to change the list and visualise them.
 6. Write a ciphering program subsituting letters
+7. Take the list operation challenge and modularise it using functions
 
 ### timed challenge
 1. create a letter pyramid
