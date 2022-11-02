@@ -6,8 +6,9 @@
 3. Working with vector variables.
 4. Money conversion challenge.
 5. Perform list operation challenge where the user have some choices to change the list and visualise them.
-6. Write a ciphering program subsituting letters
-7. Take the list operation challenge and modularise it using functions
+6. Write a ciphering program subsituting letters.
+7. Take the list operation challenge and modularise it using functions.
+8. Create functions that works with pointers and references.
 
 ### timed challenge
 1. create a letter pyramid
