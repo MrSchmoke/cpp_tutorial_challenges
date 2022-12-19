@@ -9,8 +9,10 @@
 6. Write a ciphering program subsituting letters.
 7. Take the list operation challenge and modularise it using functions.
 8. Create functions that work with pointers and references.
-9.1. Use object oriented programming and create classes with methods.
-10.1. Operator overloading with member functions
+9.
+    9.1. Use object oriented programming and create classes with methods.
+10.
+    10.1. Operator overloading with member functions
 
 ### timed challenge
 1. create a letter pyramid
