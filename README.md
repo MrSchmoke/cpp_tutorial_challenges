@@ -8,7 +8,8 @@
 5. Perform list operation challenge where the user have some choices to change the list and visualise them.
 6. Write a ciphering program subsituting letters.
 7. Take the list operation challenge and modularise it using functions.
-8. Create functions that works with pointers and references.
+8. Create functions that work with pointers and references.
+9. Use object oriented programming and create classes with methods.
 
 ### timed challenge
 1. create a letter pyramid
@@ -16,5 +17,5 @@
 ### exercises
 Some small exercises during the course
 
-
 ## Further challenges are added
+

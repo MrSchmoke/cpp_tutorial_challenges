@@ -10,8 +10,6 @@ private:
 public:
     Movies();
     ~Movies();
-
-
     bool add_movie(std::string name, std::string rating, int watched);
     bool movie_watched_again(std::string name);
     void display_movies() const;
