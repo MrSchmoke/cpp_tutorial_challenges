@@ -14,7 +14,7 @@
 10.
     10.1. Operator overloading with member functions
     10.2. Operator overloading with non-member functions
-
+11. Inheritance
 ### timed challenge
 1. create a letter pyramid
 
