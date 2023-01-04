@@ -16,6 +16,7 @@
     10.2. Operator overloading with non-member functions
 11. Inheritance
 12. Polymorphism
+13. Smart Pointers
 ### timed challenge
 1. create a letter pyramid
 
