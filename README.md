@@ -17,6 +17,7 @@
 11. Inheritance
 12. Polymorphism
 13. Smart Pointers
+14. Exception handling
 ### timed challenge
 1. create a letter pyramid
 
