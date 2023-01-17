@@ -18,6 +18,8 @@
 12. Polymorphism
 13. Smart Pointers
 14. Exception handling
+15.
+    15.1. Stream manipulators
 ### timed challenge
 1. create a letter pyramid
 
