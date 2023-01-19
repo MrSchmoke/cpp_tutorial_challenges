@@ -81,6 +81,9 @@
         "*.tcc": "cpp",
         "memory_resource": "cpp",
         "stop_token": "cpp",
-        "iomanip": "cpp"
+        "iomanip": "cpp",
+        "codecvt": "cpp",
+        "fstream": "cpp",
+        "stack": "cpp"
     }
 }

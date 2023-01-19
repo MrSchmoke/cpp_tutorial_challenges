@@ -20,6 +20,7 @@
 14. Exception handling
 15.
     15.1. Stream manipulators
+    15.2. Reading from a textfile and processing input
 ### timed challenge
 1. create a letter pyramid
 
