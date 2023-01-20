@@ -22,6 +22,7 @@
     15.1. Stream manipulators
     15.2. Reading from a textfile and processing input
     15.3. Word counter
+    15.4. Add line numbers to text
 ### timed challenge
 1. create a letter pyramid
 
