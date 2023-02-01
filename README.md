@@ -23,6 +23,8 @@
     15.2. Reading from a textfile and processing input
     15.3. Word counter
     15.4. Add line numbers to text
+16.
+    16.1. Check palindromes with std::deque
 ### timed challenge
 1. create a letter pyramid
 
