@@ -25,6 +25,7 @@
     15.4. Add line numbers to text
 16.
     16.1. Check palindromes with std::deque
+    16.2. Creating song playlist and work with lists
 ### timed challenge
 1. create a letter pyramid
 
