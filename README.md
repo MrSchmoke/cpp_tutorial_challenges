@@ -27,6 +27,7 @@
     16.1. Check palindromes with std::deque
     16.2. Creating song playlist and work with lists
     16.3. Reading a file and using maps and sets
+    16.4. Check palindromes with std::stack and std::queue
 ### timed challenge
 1. create a letter pyramid
 
